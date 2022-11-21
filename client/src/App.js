@@ -22,7 +22,7 @@ const App = ()=> {
         <Container maxwidth="lg">
             <AppBar className={classes.appBar} position="static" color="inherit">
                 <Typography className={classes.heading} variant="h2" align="center">
-                    TripLog
+                    TRIPLOG
                 </Typography>
                 <img className={classes.image} src={triplog} alt="TripLog" height="80" />
             </AppBar>
